@@ -1,3 +1,4 @@
 *.csv
 *.pdf
 .vscode/
+*.zip
